@@ -1,6 +1,6 @@
 # Xposed-PUBG Hacking File:-
 Xposed-PUBG This code is pubg hacking code.
-This Cord access on Rooted Mobile, 
+This Code access on Rooted Mobile, 
 Download this Repositories And unzip This file 
 Delete everything and last on don't delete this "Pubg hacker File.lua" This is the main File on hacking code,
 "Pubg hacker File.lua" this is the hacking code ,
